@@ -1,6 +1,5 @@
-# Sebastian Wennemers Page
+# UI5con 2019 Talks
 
-## UI5con 2019 Talks
-
-### Modification-free extensibility for existing apps
+## Modification-free extensibility for existing apps
 [Hands-On document](ModificationFreeExtensibilityAdaptationProject.docx)
+[Slides](ModificationFreeExtensibilityAdaptationProject.pptx)
